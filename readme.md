@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Swift 👨‍💻
 - 👯‍♂️ I’m willing to collaborate with other developers on a project
-- 🥅 2022 Goals: Create my first ios app and place it on AppStore
+- 🥅 2022 Goals: Create my first ios app and publish it on AppStore
 - ⚡ Fun fact: I love to play video games and code all night long
 
 ### Connect with me:
