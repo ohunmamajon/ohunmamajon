@@ -3,7 +3,7 @@
 
 ## hustlingeveryday
 
-- 🌱 I’m currently learning Swift 👨‍💻
+- 🌱 I’m currently obsessed with Swift 👨‍💻
 - 👯‍♂️ I’m willing to collaborate with other developers on a project
 - 🥅 2022 Goals: Create my first ios app and publish it on AppStore
 - ⚡ Fun fact: I love to play video games and code all night long
