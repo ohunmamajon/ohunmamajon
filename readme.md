@@ -36,5 +36,5 @@
 
 
 [twitter]: https://twitter.com/ohun_mamajon
-[instagram]: https://instagram.com/ohun_mamajon
+[instagram]: https://instagram.com/ohunmamajon
 [linkedin]: https://linkedin.com/in/ohunmamajon
