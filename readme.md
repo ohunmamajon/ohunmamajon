@@ -3,7 +3,7 @@
 
 ## hustlingeveryday
 
-- 🌱 I’m currently obsessed with Swift 👨‍💻
+- 🌱 I’m currently obsessed with iOS development 👨‍💻
 - 👯‍♂️ I’m willing to collaborate with other developers on a project
 - 🥅 2023 Goals: Create my first iOS app and publish it on AppStore
 - ⚡ Fun fact: I love to play video games and code all night long
