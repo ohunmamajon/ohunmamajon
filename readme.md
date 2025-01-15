@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently obsessed with iOS development 👨‍💻
 - 👯‍♂️ I’m willing to collaborate with other developers on a project
-- 🥅 2023 Goals: Create my first iOS app and publish it on AppStore
+- 🥅 2025 Goals: Mastering Flutter
 - ⚡ Fun fact: I love to play video games and code all night long
 
 ### Connect with me:
