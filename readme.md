@@ -3,10 +3,10 @@
 
 ## hustlingeveryday
 
-- 🌱 I’m currently obsessed with iOS development 👨‍💻
+- 🌱 I am an iOS and Flutter development geek 👨‍💻
 - 👯‍♂️ I’m willing to collaborate with other developers on a project
 - 🥅 2025 Goals: Mastering Flutter
-- ⚡ Fun fact: I love to play video games and code all night long
+- ⚡ Fun fact: I love to learn languages and code all night long
 
 ### Connect with me:
 
